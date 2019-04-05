@@ -1,1 +1,1 @@
-# c_to_f
+# This is a program for convertion degree Celsius into degree Fahrenheit.
